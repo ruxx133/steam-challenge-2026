@@ -47,8 +47,6 @@ Instalare:
 pip install numpy pandas scikit-learn
 ```
 
-*(Opțional, dacă folosești modul de comunicare Serial cu Arduino: `pyserial`)*
-
 ```bash
 pip install pyserial
 ```
